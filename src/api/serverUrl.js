@@ -1,1 +1,1 @@
-export default "<YOUR_API_URL>";
+export default "https://x25vri3cy7.execute-api.eu-central-1.amazonaws.com/dev";
